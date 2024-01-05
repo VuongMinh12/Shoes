@@ -1,2 +1,4 @@
 day la txt New 2
 Check file txt duoc khoi tao
+-------------------------------- 
+Txt update them thong tin sau khi them WebBasic tai Develop
